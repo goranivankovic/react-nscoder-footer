@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-nscoder-footer/static/css/main.5dd8c503.css",
+    "main.js": "/react-nscoder-footer/static/js/main.eac4dddc.js",
+    "static/media/logo.svg": "/react-nscoder-footer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-nscoder-footer/index.html",
+    "main.5dd8c503.css.map": "/react-nscoder-footer/static/css/main.5dd8c503.css.map",
+    "main.eac4dddc.js.map": "/react-nscoder-footer/static/js/main.eac4dddc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd8c503.css",
+    "static/js/main.eac4dddc.js"
+  ]
+}
