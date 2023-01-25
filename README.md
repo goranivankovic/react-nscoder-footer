@@ -99,7 +99,7 @@ function App() {
      //Change first row headline
       firstHeadlineName="PRODUCTS"
     
-      //Change first row items minimum 3 items - Maximum 6 items for responsiveness.
+      //Change first row items minimum 0 items - Maximum 6 items for responsiveness.
       //If second item value == true. Item will be displayed. Else item will not be displayed.
       firstROWitems={[["Web Sites",true],["Web Design",true],["Custom API",true],["30 Day Kick Start Plan",true],["Web Solutions",true],["Data AI",false]]}
 
@@ -112,7 +112,7 @@ function App() {
      //Change second row headline
       secondHeadlineName="COMPANY"
  
-      //Change second row items minimum 3 items - Maximum 6 items for responsiveness.
+      //Change second row items minimum 0 items - Maximum 6 items for responsiveness.
       //If second item value == true. Item will be displayed. Else item will not be displayed.
       secondROWitems={[["Years Active",true],["Transparent",true],["Be a Part of company",true],["Since 1976 - ",true],["Together We Create",false],["Business Leader",false]]}
 
@@ -125,7 +125,7 @@ function App() {
       threeHeadlineName="COMMUNITY"
 
 
-      //Change thred row items minimum 3 items - Maximum 6 items for responsiveness.
+      //Change thred row items minimum 0 items - Maximum 6 items for responsiveness.
       //If second item value == true. Item will be displayed. Else item will not be displayed.
       threedROWitems={[["footballapiuk@gmail.com",true],["Discord",true],["Snapchat",true],["Facebook - ",false],["Youtube",false],["Instagram",false]]}
 
@@ -138,7 +138,7 @@ function App() {
      //Change four row headline
       fourHeadlineName="CONTACT US"
 
-     //Change four row items minimum 3 items - Maximum 6 items for responsiveness.
+     //Change four row items minimum 0 items - Maximum 6 items for responsiveness.
       //If second item value == true. Item will be displayed. Else item will not be displayed.
       fourROWitems={[["footerpackage@gmail.com",true],["Support Centre",true],["Newsletter",true],["@facebook",true],["Youtube Channel",true],["@instagram",true]]}
 
